@@ -7,3 +7,5 @@ site: https://datazenit.com
 ```bash
 docker run --name=datazenit -p 9000:9000 -d krecu/datazenit
 ```
+
+go to http://localhost:9000
